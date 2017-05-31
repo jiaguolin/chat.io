@@ -8,9 +8,9 @@
 	},
 	"sessionSecret": "123456",
 	"facebook": {
-		"clientID": "<AppID>",
-		"clientSecret": "<AppSecret>",
-		"callbackURL": "/auth/facebook/callback",
+		"clientID": "129449897623972",
+		"clientSecret": "bff8e9575d4991d50b397f6321fd72be",
+		"callbackURL": "http://jiaguolinchatio.herokuapp.com/auth/facebook/callback",
 		"profileFields": ["id", "displayName", "photos"]
 	},
 	"twitter": {
