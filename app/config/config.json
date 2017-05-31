@@ -5,12 +5,12 @@
 		"host": "ds155091.mlab.com",
 		"port": "55091",
 		"name": "chatio"
-		
+
 	},
 	"sessionSecret": "123456",
 	"facebook": {
-		"clientID": "<AppID>",
-		"clientSecret": "<AppSecret>",
+		"clientID": "129449897623972",
+		"clientSecret": "bff8e9575d4991d50b397f6321fd72be",
 		"callbackURL": "/auth/facebook/callback",
 		"profileFields": ["id", "displayName", "photos"]
 	},
